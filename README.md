@@ -1,3 +1,7 @@
+# Disco bot project
+
+When started the bot will show some messages and then start +dancing+.
+
 
 > Open this page at [https://wobloxter.github.io/disco/](https://wobloxter.github.io/disco/)
 
